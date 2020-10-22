@@ -10,4 +10,4 @@ The project consists of two divisions. One division of the project is a hardware
 
 # Project Explaination
 
-[!IMG ALT TEXT](<img width="481" alt="project image" src="https://user-images.githubusercontent.com/48923446/96822767-751d7e00-1448-11eb-8813-253ae5039da1.PNG">](https://www.youtube.com/embed/tgTUnD91qP8)
+[![Vedio Link](<img width="481" alt="project image" src="https://user-images.githubusercontent.com/48923446/96822767-751d7e00-1448-11eb-8813-253ae5039da1.PNG">](https://www.youtube.com/embed/tgTUnD91qP8)
