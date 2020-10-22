@@ -10,7 +10,7 @@ The project consists of two divisions. One division of the project is a hardware
 
 # Block Diagram
 
-<img width="472" alt="block diagram" src="https://user-images.githubusercontent.com/48923446/96823133-65526980-1449-11eb-92dd-834eef77ed57.PNG"
+<img width="472" alt="block diagram" src="https://user-images.githubusercontent.com/48923446/96823133-65526980-1449-11eb-92dd-834eef77ed57.PNG">
 
 # Project Explaination Vedio
 
@@ -31,5 +31,5 @@ It is developed using thunkable classic application developer.
 Firebase DB is used to store the data of farmer details and this is communicated between server and client end of the application.
 
 <img width="464" alt="database" src="https://user-images.githubusercontent.com/48923446/96823220-9fbc0680-1449-11eb-9e9a-2f9a67252e5c.PNG">
->
+
 
