@@ -10,5 +10,4 @@ The project consists of two divisions. One division of the project is a hardware
 
 # Project Explaination
 
-<a href="https://www.youtube.com/embed/tgTUnD91qP8" target="_blank"><img src="https://www.youtube.com/embed/tgTUnD91qP8.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+[![IMAGE ALT TEXT](https://www.youtube.com/embed/tgTUnD91qP8/0.jpg)](https://www.youtube.com/embed/tgTUnD91qP8 "Green IoT for Smart Agriculture")
